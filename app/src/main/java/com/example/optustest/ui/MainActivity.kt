@@ -3,7 +3,7 @@ package com.example.optustest.ui
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
-import com.example.optustest.R
+import com.test.optus.R
 
 class MainActivity : AppCompatActivity() {
 
